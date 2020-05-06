@@ -20,7 +20,7 @@ Open two terminals, in first:
 In second one terminal run 
 ~ npm run dev
 
-# TO USE DEPLOY
+# TO USE AT DEPLOYING MODE
 In one terminal execute: 
 ~ npm start
 
